@@ -173,4 +173,4 @@ Tested on a physical Android 12 phone: **7 of 8 scenarios** gave the expected re
 
 ## Author
 
-Sanjida Hossain Eva & Shifat Mahmud GitHub: @ShifatMahmud0
+Sanjida Hossain Eva & [@ShifatMahmud0](https://github.com/ShifatMahmud0)
